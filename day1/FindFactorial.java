@@ -19,7 +19,7 @@ public class FindFactorial {
 		}
 		System.out.println(fact);
 		System.out.println(factorial(n));
-		
+		sc.close();
 
 	}
 	

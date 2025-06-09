@@ -22,7 +22,7 @@ public class ReverseString {
 		String res = new String(arr);
 		
 		System.out.println(res); 
-
+		sc.close();
 	}
 
 }

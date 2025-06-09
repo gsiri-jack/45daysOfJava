@@ -20,7 +20,7 @@ public class CheckPrime {
 			}
 		}}
 		System.out.println(prime);
-
+		sc.close();
 	}
 
 }
